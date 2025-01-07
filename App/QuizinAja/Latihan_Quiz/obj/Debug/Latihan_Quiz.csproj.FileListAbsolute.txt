@@ -1,0 +1,16 @@
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\bin\Debug\Latihan_Quiz.exe.config
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\bin\Debug\Latihan_Quiz.exe
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\bin\Debug\Latihan_Quiz.pdb
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.csproj.AssemblyReference.cache
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.Properties.Resources.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.csproj.GenerateResource.cache
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.exe
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.pdb
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormCodeQuiz.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormCreateAccount.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormLogin.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormMainMenu.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormAddQuiz.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormQuiz.resources
+C:\Users\RPL\source\repos\Latihan_Quiz\Latihan_Quiz\obj\Debug\Latihan_Quiz.FormViewReport.resources
